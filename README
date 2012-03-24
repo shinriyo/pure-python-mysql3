@@ -1,0 +1,23 @@
+====================
+pymysql Installation
+====================
+
+.. contents::
+..
+
+Requirements
+-------------
+
++ Python 3.2.2
+
+ * http://www.python.org/
+ 
+* MySQL 4.1 or higher
+    
+ * protocol41 support
+
+Installation
+------------
+
+# python setup.py install
+
